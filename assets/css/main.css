@@ -30,7 +30,16 @@ body, html {
     background-image: url("../images/shave-brush.png");
     min-height: 400px;
 }
+#Setmore_button_iframe {
+    display: flex;
 
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+
+    align-items: center;
+
+}
 .w3-wide {letter-spacing: 10px;}
 .w3-hover-opacity {cursor: pointer;}
 
